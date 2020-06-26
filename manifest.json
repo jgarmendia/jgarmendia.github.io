@@ -1,0 +1,27 @@
+{
+    "name": "Juan Garmendia",
+    "short_name": "Jgarmendia",
+    "description": "Sitio de Juan Garmendia",
+    "icons": [
+      {
+        "src": "images/icons/img_icon_144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/img_icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/img_icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "scope": "/",
+    "display": "minimal-ui",
+    "background_color": "#f5ecda",
+    "theme_color": "#f5ecda"
+  }
